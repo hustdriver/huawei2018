@@ -3,5 +3,8 @@ Title introduction
 http://codecraft.devcloud.huaweicloud.com/home/detail
 
 内容分预测需求和需求放置两部分，预测方面有四个模型，移动平均，线性拟合，指数平滑，AR；（预测真的是玄学）
+
 装箱用的贪心策略，效果能达到0.95以上，也写了一个GA，不过效果波动很大，0.85~0.94之间，所以没有采用。
+
+
 顺便记录一下第一次上传GitHub~
